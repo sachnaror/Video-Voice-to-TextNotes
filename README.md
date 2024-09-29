@@ -7,6 +7,22 @@ It’ll transcribe your life faster than you can say "flash" ⚡. It's basically
 
 ---
 
+```
+├── Video-Voice-to-TextNotes/
+│   ├── requirements.txt
+│   ├── README.md
+│   ├── .env
+│   ├── app.py
+│   ├── image.png
+│   └── temp/
+│   ├── .streamlit/
+│   │   └── config.toml
+│   ├── utils/
+│   │   ├── removemarkdownsyntax.py
+│   │   ├── util.py
+│   │   └── model.py
+```
+
 ## 🚀 Installation
 
 First things first, let’s install some packages. 🎒
@@ -91,4 +107,5 @@ And remember: with great API keys, comes great responsibility. 😏
 
 ---
 
+![alt text](image.png)
 
